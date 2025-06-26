@@ -34,5 +34,5 @@ Este projeto simula um sistema de controle de estoque e análise de vendas para 
 
 ---
 
-> Projeto criado por Thalita B. para fins educacionais e de portfólio 💼📊
+> Projeto criado por Thalita Rodrigues para fins educacionais e de portfólio 💼📊
 
